@@ -31,7 +31,7 @@ O app é 100% construído em SwiftUI e foca exclusivamente na camada visual, sem
 ## Autores
 
 <a href="https://github.com/LosadaT"><img src="https://avatars.githubusercontent.com/u/99215889?v=4" height=100></a>
-<a href="https://github.com/Anshushu000"><img src="https://avatars.githubusercontent.com/u/162062777?v=4" height=100></a>
+<a href="https://github.com/TamiresMendesS"><img src="https://avatars.githubusercontent.com/u/162062777?v=4" height=100></a>
 
 ## Como Rodar
 
